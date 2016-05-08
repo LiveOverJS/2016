@@ -30,6 +30,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 | [Dean Eigenmann](https://twitter.com/parklyapp) | [Parkly](https://www.parkly.ch) | | | |
 | [Duan Wen](https://twitter.com/wddwycc) | | [Github](https://github.com/wddwycc/Freehand) | | |
 | [Eli Yazdi](https://twitter.com/eli_yazdi) | [3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8) | [GitHub](http://github.com/eliyazdi/3dtones) | | |
+| [Emmanuel Francis](http://efk.ieee-siesgst.in) | | Submitted| | |
 | Erik Sargent| [Taxbot](https://itunes.apple.com/us/app/taxbot-automatic-mile-tracker/id461781884?mt=8) | | | |
 | [Evan Dekhayser](https://twitter.com/ERDekhayser) | [Contact Archiver](https://itunes.apple.com/us/app/contact-archiver/id733594022?mt=8) | [GitHub](https://github.com/edekhayser/WWDC-2016-Scholarship-App) | | |
 | [Finn Gaida](https://twitter.com/fga) | [Customizable Keys Keyboard](https://itunes.apple.com/us/app/customizable-keys-keyboard/id1104673201?mt=8) | [GitHub](https://github.com/finngaida/wwdc/tree/master/2016) | | |
